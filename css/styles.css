@@ -1,0 +1,26 @@
+h1{
+    font-family: 'Work Sans', sans-serif;
+    font-size: 55px;
+    font-style: italic;
+    font-weight: 600;
+}
+
+p{
+    font-family: 'Merriweather', serif;
+    font-size: 18px;
+}
+
+
+nav{
+    font-family: 'Yusei Magic', sans-serif;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+    nav ul{
+        list-style: none;
+    }
+
+        nav ul li{
+            display: inline;
+        }
